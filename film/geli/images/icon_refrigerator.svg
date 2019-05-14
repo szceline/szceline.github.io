@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_refrigerator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_英文移动端_首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-215.000000, -579.000000)">
+        <g id="Group-25" transform="translate(215.000000, 579.000000)" stroke="#666666">
+            <g id="Page-1" transform="translate(11.000000, 6.000000)">
+                <path d="M3.334,27 L14.8393333,27 C16.4961876,27 17.8393333,25.6568542 17.8393333,24 L17.8393333,3.33333333 C17.8393333,1.67647908 16.4961876,0.333333333 14.8393333,0.333333333 L3.334,0.333333333 C1.67714575,0.333333333 0.334,1.67647908 0.334,3.33333333 L0.334,24 C0.334,25.6568542 1.67714575,27 3.334,27 Z" id="Stroke-7"></path>
+                <g id="Group-5" transform="translate(0.000000, 14.000000)">
+                    <path d="M0.333466667,0.355733333 L17.8388,0.355733333" id="Stroke-1"></path>
+                    <path d="M0.333466667,5.0068 L17.8388,5.0068" id="Stroke-3"></path>
+                </g>
+                <path d="M6.47766667,6.87433333 L6.47766667,11.7916667" id="Stroke-6"></path>
+                <path d="M13.4838667,6.87433333 L13.4838667,11.7916667 L13.4838667,6.87433333 Z" id="Stroke-9"></path>
+                <path d="M11.3543333,8.1038 L15.613,10.5624667 L11.3543333,8.1038 Z" id="Stroke-10"></path>
+                <path d="M15.6131333,8.1038 L11.3544667,10.5624667 L15.6131333,8.1038 Z" id="Stroke-11"></path>
+                <path d="M9.08606667,0.333333333 L9.08606667,27" id="Stroke-12"></path>
+            </g>
+        </g>
+    </g>
+</svg>

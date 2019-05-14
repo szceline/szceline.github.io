@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_Expand</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_英文移动端_首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-343.000000, -3886.000000)">
+        <g id="页脚导航" transform="translate(0.000000, 3790.000000)" fill="#666666">
+            <path d="M348.454545,101.454545 L348.454545,96.5454545 L348.454545,96 L349.545455,96 L349.545455,96.5454545 L349.545455,101.454545 L354.454545,101.454545 L355,101.454545 L355,102.545455 L354.454545,102.545455 L349.545455,102.545455 L349.545455,107.454545 L349.545455,108 L348.454545,108 L348.454545,107.454545 L348.454545,102.545455 L343.545455,102.545455 L343,102.545455 L343,101.454545 L343.545455,101.454545 L348.454545,101.454545 Z" id="icon_Expand"></path>
+        </g>
+    </g>
+</svg>

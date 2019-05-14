@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_Service Hotline</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.566 0.8122 6.81 0.8122 6.81 5 0.566 5"></polygon>
+    </defs>
+    <g id="01_英文移动端_首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-168.000000, -3802.000000)">
+        <g id="页脚导航" transform="translate(0.000000, 3790.000000)">
+            <g id="Group-2" transform="translate(168.000000, 12.000000)">
+                <g id="Page-1" transform="translate(1.000000, 2.000000)">
+                    <path d="M6.5001,23.9285 C2.9101,23.9285 0.0001,21.0185 0.0001,17.4285 C0.0001,13.8385 2.9101,10.9285 6.5001,10.9285 L6.5001,23.9285 Z" id="Fill-1" fill="#666666"></path>
+                    <path d="M30.9948,23.9285 C34.5848,23.9285 37.4948,21.0185 37.4948,17.4285 C37.4948,13.8385 34.5848,10.9285 30.9948,10.9285 L30.9948,23.9285 Z" id="Fill-3" fill="#666666"></path>
+                    <g id="Group-7" transform="translate(15.000000, 30.063100)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-6"></g>
+                        <path d="M4.716,5.0002 L2.66,5.0002 C1.508,5.0002 0.566,4.0582 0.566,2.9062 C0.566,1.7542 1.508,0.8122 2.66,0.8122 L4.716,0.8122 C5.868,0.8122 6.81,1.7542 6.81,2.9062 C6.81,4.0582 5.868,5.0002 4.716,5.0002" id="Fill-5" fill="#666666" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M5.4245,15.6121 L5.4245,13.2631 C5.4245,11.7481 5.6815,10.2901 6.1555,8.9291 C7.9625,3.7461 12.9085,0.0001 18.6885,0.0001 C25.9835,0.0001 31.9515,5.9681 31.9515,13.2631 L31.9515,15.6121" id="Stroke-8" stroke="#666666" stroke-width="2"></path>
+                    <path d="M19.6115,34.5486 C19.6995,34.5406 19.7875,34.5316 19.8755,34.5226 C26.5015,33.8006 31.7015,28.1466 31.7015,21.3366 L31.7015,18.9876" id="Stroke-10" stroke="#666666"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
