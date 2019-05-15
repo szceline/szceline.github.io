@@ -390,9 +390,11 @@
     <script type="text/javascript" src="js/rem.js"></script>
     <script>
         $(function(){
-            $(".menuUl>li,.menuLayoutUl>li").click(function(){
-                $(this).toggleClass('active').find("ul").toggle();
-
+            $(".menuUl>li").click(function(){
+                $(this).toggleClass('active').find("ul").slideToggle(500);
+            })
+            $(".menuLayoutUl>li").click(function(){
+                $(this).toggleClass('active').find("ul").slideToggle('slow');
             })
             $(".selectIcn").click(function(){
                 $('body,html').addClass('notScroll');
